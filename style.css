@@ -193,11 +193,11 @@ a.nav-link:hover{ color:#FBA504;}
 .fact {
     margin: 6rem 0;
     background:
-        url(../img/blob-top-left.png),
-        url(../img/blob-top-right.png),
-        url(../img/blob-bottom-left.png),
-        url(../img/blob-bottom-right.png),
-        url(../img/blob-center.png);
+        url(img/blob-top-left.png),
+        url(img/blob-top-right.png),
+        url(img/blob-bottom-left.png),
+        url(img/blob-bottom-right.png),
+        url(img/blob-center.png);
     background-position:
         left 0px top 0px,
         right 0px top 0px,
@@ -229,13 +229,13 @@ a.nav-link:hover{ color:#FBA504;}
     align-items: center;
     justify-content: center;
     color: var(--light);
-    background: url(../img/blob-primary.png) center center no-repeat;
+    background: url(img/blob-primary.png) center center no-repeat;
     background-size: contain;
     transition: .5s;
 }
 .service-item:hover .service-icon {
     color: var(--dark);
-    background: url(../img/blob-secondary.png) center center no-repeat;
+    background: url(img/blob-secondary.png) center center no-repeat;
     background-size: contain;
 }
 .service-item h5{transition: .5s;color: #04000B;}
@@ -259,11 +259,11 @@ a.nav-link:hover{ color:#FBA504;}
 .newsletter {
     margin: 6rem 0;
     background:
-        url(../img/blob-top-left.png),
-        url(../img/blob-top-right.png),
-        url(../img/blob-bottom-left.png),
-        url(../img/blob-bottom-right.png),
-        url(../img/blob-center.png);
+        url(img/blob-top-left.png),
+        url(img/blob-top-right.png),
+        url(img/blob-bottom-left.png),
+        url(img/blob-bottom-right.png),
+        url(img/blob-center.png);
     background-position:
         left 0px top 0px,
         right 0px top 0px,
@@ -364,8 +364,8 @@ a.nav-link:hover{ color:#FBA504;}
     margin-top: 6rem;
     padding-top: 9rem;
     background:
-        url(../img/bg-top.png),
-        url(../img/map.png);
+        url(img/bg-top.png),
+        url(img/map.png);
     background-position:
         center top,
         center center;
