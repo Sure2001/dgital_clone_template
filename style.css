@@ -91,12 +91,12 @@ a.nav-link:hover{ color:#FBA504;}
     margin-bottom: 6rem;
     padding: 18rem 0;
     background:
-        url(../img/blob-top-left.png),
-        url(../img/blob-top-right.png),
-        url(../img/blob-bottom-left.png),
-        url(../img/blob-bottom-right.png),
-        url(../img/blob-center.png),
-        url(../img/bg-bottom.png);
+        url(img/blob-top-left.png),
+        url(img/blob-top-right.png),
+        url(img/blob-bottom-left.png),
+        url(img/blob-bottom-right.png),
+        url(img/blob-center.png),
+        url(img/bg-bottom.png);
     background-position:
         left 0px top 0px,
         right 0px top 0px,
@@ -113,12 +113,12 @@ a.nav-link:hover{ color:#FBA504;}
     margin-bottom: 6rem;
     padding: 18rem 0;
     background:
-        url(../img/blob-top-left.png),
-        url(../img/blob-top-right.png),
-        url(../img/blob-bottom-left.png),
-        url(../img/blob-bottom-right.png),
-        url(../img/blob-center.png),
-        url(../img/bg-bottom.png);
+        url(img/blob-top-left.png),
+        url(img/blob-top-right.png),
+        url(img/blob-bottom-left.png),
+        url(img/blob-bottom-right.png),
+        url(img/blob-center.png),
+        url(img/bg-bottom.png);
     background-position:
         left 0px top 0px,
         right 0px top 0px,
